@@ -1,0 +1,42 @@
+#main{
+   width: 150%;
+   height: 600px;
+   background-color: darkgreen;
+}
+
+#main h1{
+    color: white ;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    
+}
+#main  p{
+    font-size: 30px;
+    font-weight: 500;
+    font-style: italic;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.text, .img{
+    width:30% ;
+    float:left ;
+}
+*{
+    margin: 0%;
+    padding:0px ;
+    
+}
+@media (max-width:600px);
+#main h1{
+    color: blue;
+}
+
+
+}
+
+
+    
+}
